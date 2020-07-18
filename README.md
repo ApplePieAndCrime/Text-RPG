@@ -8,3 +8,4 @@
 Ты - ученик чародея. Твоя главная задача - узнать рецепт салата у других колдунов. Каждый из них расскажет тебе об одном из ингредиентов, если ты найдешь нужный им предмет.
 
 ![Image](https://github.com/ApplePieAndCrime/Text-RPG/docs/img/start.png)
+![start](https://github.com/ApplePieAndCrime/Text-RPG/raw/master/docs/img/image.png)
